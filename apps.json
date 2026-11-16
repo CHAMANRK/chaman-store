@@ -1,0 +1,13 @@
+{
+  "apps": [
+    {
+      "name": "Sample App",
+      "package": "com.example.sample",
+      "versionName": "1.0",
+      "versionCode": 1,
+      "description": "Ye sirf sample entry hai. Apni asli app ki entry se badal do.",
+      "apkUrl": "https://github.com/CHAMANRK/REPO/releases/download/v1.0/app.apk",
+      "iconUrl": ""
+    }
+  ]
+}
